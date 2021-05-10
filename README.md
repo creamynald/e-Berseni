@@ -1,2 +1,2 @@
 # e-Berseni PA Siak
-Aplikasi E-Berseni (Bersih dan Melayani) PA Siak Sri Indrapura
+Aplikasi E-Berseni (Elektronik Birokrasi Bersih dan Melayani) Pengadilan Agama Siak Sri Indrapura
